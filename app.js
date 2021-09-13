@@ -10,7 +10,7 @@ class PageState {
       currentState = state;
     };
   }
-}
+};
 
 
 // Home state
