@@ -55,3 +55,5 @@ const home = document.getElementById('home'),
         page.change(new aboutState);
         e.preventDefault()
       })
+
+      //This is the state pattern
